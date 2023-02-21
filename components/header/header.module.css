@@ -1,0 +1,57 @@
+/* Footer Styles */
+
+.siteHeader {
+  background: transparent;
+  padding: 16px;
+}
+
+.siteHeader__wrapper {
+  display: flex;
+  align-items: center;
+  margin-right: -24px;
+}
+
+.siteHeader__logo {
+  flex: 0 0 220px;
+  margin-right: 24px;
+}
+
+.quickNav {
+  flex: 0 0 auto;
+  margin-right: auto;
+}
+
+.quickNav ul {
+  display: flex;
+  margin-right: -16px;
+  list-style-type: none;
+}
+
+.quickNav__item {
+  margin-right: 16px;
+}
+
+.quickNav__item a {
+  display: inline-block;
+  padding: 4px 8px;
+  color: white;
+  font-weight: bold;
+}
+
+.siteHeader__cta {
+  flex: 0 0 auto;
+  margin-right: 24px;
+}
+
+.mainNav {
+  flex: 0 0 50px;
+  margin-right: 24px;
+}
+
+.mainNav a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+}

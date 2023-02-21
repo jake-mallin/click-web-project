@@ -1,0 +1,30 @@
+/* Footer Styles */
+
+.mainFooter {
+  background: #0d062e;
+  padding: 24px;
+}
+
+.mainFooter p {
+  color: white;
+  margin-bottom: 16px;
+}
+
+.fcaDisclaimer {
+  margin-bottom: 24px;
+}
+
+.footerDisclaimer {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.footerDisclaimer a {
+  display: flex;
+  align-items: center;
+}
+
+.footerDisclaimer img {
+  margin-left: 16px;
+}
